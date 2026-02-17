@@ -32,6 +32,7 @@ step - 3 : (Branching)
 03. git checkout <branch_name>
 04. git checkout main
 05. git merge <branch_name> -m "message"
+06. git branch -d <name>         # delete branch
 
 
 
@@ -48,4 +49,5 @@ Others:
 07. git diff                     
 08. git diff --staged  
 09. git reset HEAD~  
-10. git reset --hard        
+10. git reset --hard    
+11. git --version ===> to Check the current version of github    
